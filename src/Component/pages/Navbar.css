@@ -1,0 +1,13 @@
+#upperul {
+    list-style: none;
+    display: flex;
+    background-color: antiquewhite;
+  justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+li{
+    padding: 20px;
+    font-size: 35px;
+
+}

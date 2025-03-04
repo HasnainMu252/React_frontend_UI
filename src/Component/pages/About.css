@@ -1,0 +1,24 @@
+#upperUl {
+list-style: none;
+display: flex;
+flex-direction: column;
+
+padding: 10px;
+
+}
+
+#lowerLi{
+    border: 2px solid red;
+    padding-left: 10px;
+
+}
+#btn{
+    padding-right: 25px;
+}
+
+#start{
+    padding: 10x;
+}
+#end{
+    padding: 10px;
+}
